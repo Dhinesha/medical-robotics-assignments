@@ -22,4 +22,4 @@
 
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
-> [LinkedIn post URL]
+> [LinkedIn post URL]https://www.linkedin.com/posts/dhinesha-g-673601292_4medcare-medicalrobotics-artificialintelligence-activity-7436063967036334080-tyE0?utm_source=share&utm_medium=member_android&rcm=ACoAAEbssncBaAGiM0S7kVqrjehXyLrV_-japFo
